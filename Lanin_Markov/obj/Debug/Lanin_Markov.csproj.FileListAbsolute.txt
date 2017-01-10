@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Lanin_Markov\Lanin_Markov\bin\Debug\Lanin_Markov.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lanin_Markov\Lanin_Markov\bin\Debug\Lanin_Markov.exe
+c:\users\user\documents\visual studio 2015\Projects\Lanin_Markov\Lanin_Markov\bin\Debug\Lanin_Markov.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lanin_Markov\Lanin_Markov\obj\Debug\Lanin_Markov.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lanin_Markov\Lanin_Markov\obj\Debug\Lanin_Markov.exe
+c:\users\user\documents\visual studio 2015\Projects\Lanin_Markov\Lanin_Markov\obj\Debug\Lanin_Markov.pdb
